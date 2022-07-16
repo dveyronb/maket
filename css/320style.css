@@ -167,12 +167,14 @@
   border-radius: 0px;
 }
 .picture img {
+  box-sizing: border-box;
   position: absolute;
-  height: 230.80474853515625px;
+  height: 176px;
   width: 320px;
-  left: 0px;
-  top: 17.06%;
-  bottom: 1.28%;
+  left: 0%;
+  right: 0%;
+  top: 64.66%;
+  bottom: 5.86%;
 }
 .read {
   border: none;
